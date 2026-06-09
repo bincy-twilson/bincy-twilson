@@ -32,5 +32,5 @@ Food ordering and management system built using Django and MySQL.
 - Data Structures & Algorithms
 
 ## Connect With Me
-- LinkedIn: Add your LinkedIn link
-- Email: Add your email
+- LinkedIn: www.linkedin.com/in/bincy-t-wilson-96b654306
+- Email: bincytwilson@gmail.com
