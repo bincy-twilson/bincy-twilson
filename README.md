@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Bincy T Wilson 👋
 
-<!--
-**bincy-twilson/bincy-twilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Science Student
 
-Here are some ideas to get you started:
+🏆 CGPA: 9.05
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Scholarship Recipient
+
+💻 Interested in Software Development, AI, Machine Learning, and Web Development
+
+## Skills
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Django
+- React
+- Git & GitHub
+
+## Projects
+### Adly Influencer
+Influencer and brand connection platform built using React, Node.js, and MongoDB.
+
+### Homel Food
+Food ordering and management system built using Django and MySQL.
+
+## Currently Learning
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
+
+## Connect With Me
+- LinkedIn: Add your LinkedIn link
+- Email: Add your email
